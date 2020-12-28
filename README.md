@@ -8,6 +8,6 @@ open symlink file in vscode, run the **Open Symlink Source** command from the Co
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 Initial release of Open Symlink Source.
